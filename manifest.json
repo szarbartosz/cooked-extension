@@ -1,0 +1,10 @@
+{
+  "name": "Let's cook!",
+  "description": "Extension that helps you get straight to the recipe.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "assets/icon.png"
+  }
+}
