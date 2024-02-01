@@ -6,6 +6,6 @@ Have you ever found yourself in a situation, in which you wanted to check out ce
 
 Make use of the `cooked-extension` and dive into the recipe instantly!
 
-## acknowledgements
+## acknowledgements :portugal:
 
-The extension is redirecting to [cooked.wiki](https://twitter.com/cooked_wiki), that is an AI powered tool for a pleasant cooking experience, created in Lisbon, by Eduardo Gonçalves :portugal:
+The extension is redirecting to [cooked.wiki](https://twitter.com/cooked_wiki), that is an AI powered tool for a pleasant cooking experience, created in Lisbon, by Eduardo Gonçalves
