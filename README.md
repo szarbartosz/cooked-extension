@@ -1,6 +1,6 @@
 # cooked-extension :plate_with_cutlery:
 
-Have you ever found yourself in a situation, in which you wanted to check out certain recipe, but instead of delicious facts, you got a hard-to-digest history essay about the dish history?
+Have you ever found yourself in a situation, in which you wanted to check out certain recipe, but instead of delicious facts, you got a hard-to-digest essay about the dish history?
 
 ## no more! :ramen:
 
