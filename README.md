@@ -8,4 +8,4 @@ Make use of the `cooked-extension` and dive into the recipe instantly!
 
 ## acknowledgements :portugal:
 
-The extension is redirecting to [cooked.wiki](https://twitter.com/cooked_wiki), that is an AI powered tool for a pleasant cooking experience, created in Lisbon, by Eduardo Gonçalves
+The extension is redirecting to [cooked.wiki](https://twitter.com/cooked_wiki), that is an AI powered tool for a pleasant cooking experience, created in Lisbon, by Eduardo Gonçalves.
