@@ -2,7 +2,7 @@
 
 Have you ever found yourself in a situation, in which you wanted to check out certain recipe, but instead of delicious facts, you got a hard-to-digest history essay about the dish history?
 
-## no more! :beverage_box:
+## no more! :ramen:
 
 Make use of the `cooked-extension` and dive into the recipe instantly!
 
