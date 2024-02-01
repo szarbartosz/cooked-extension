@@ -11,5 +11,6 @@
   "action": {
     "default_popup": "index.html",
     "default_icon": "assets/icon-32.png"
-  }
+  },
+  "permissions": ["activeTab"]
 }
