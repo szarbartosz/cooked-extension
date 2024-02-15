@@ -6,4 +6,6 @@ function redirectToCooked() {
 }
 
 const buttonRedirect = document.getElementById("button-redirect");
-buttonRedirect.addEventListener("click", redirectToCooked);
+if (buttonRedirect) {
+  buttonRedirect.addEventListener("click", redirectToCooked);
+}
