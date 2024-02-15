@@ -22,6 +22,8 @@ async function copyToClipBoard() {
 }
 
 const buttonRedirect = document.getElementById("button-redirect");
-buttonRedirect.addEventListener("click", function () {
-  copyToClipBoard();
-});
+if (buttonRedirect) {
+  buttonRedirect.addEventListener("click", function () {
+    copyToClipBoard();
+  });
+}
